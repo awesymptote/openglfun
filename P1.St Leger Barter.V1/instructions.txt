@@ -1,0 +1,7 @@
+Project 0 by Kyle St Leger Barter for CSE470	
+
+The project ConsoleApplication1 is the source code.
+
+To run the project, simply double click Project0.exe and 
+you will see a square and a line.  The square's color has been
+changed to a pretty looking gradient.
